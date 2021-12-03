@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985196384206",
+    "project_id": "flash-chat-42b5d",
+    "storage_bucket": "flash-chat-42b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985196384206:android:0902f19feca422e6cda59f",
+        "android_client_info": {
+          "package_name": "co.rodde_alain.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985196384206-ud9686cbln8b8d7p7h99nm0s7fqcd7qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8nZ5VQXOguc7TSb8tBnztbiHXbI-DCS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985196384206-ud9686cbln8b8d7p7h99nm0s7fqcd7qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
